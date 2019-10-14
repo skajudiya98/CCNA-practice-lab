@@ -1,2 +1,2 @@
-# CCNA-practice-lab
-CCNA practice labs
+# CCNA-practice-lab 
+CCNA practice labs using cisco packet tracer
